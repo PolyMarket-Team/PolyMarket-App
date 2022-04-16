@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Place this script in project/ios/
 
 # fail if any command fails
 set -e
